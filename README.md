@@ -1,0 +1,2 @@
+# otoday
+My first repository.
